@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Xunit;
 using DemoLibrary;
 using DemoLibrary.Models;
+using DemoLibrary.Models;
 
 namespace DemoLibrary.Tests
 {
