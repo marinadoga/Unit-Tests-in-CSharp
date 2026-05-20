@@ -28,6 +28,8 @@
         /// </summary>
         private void InitializeComponent()
         {
+this.databaseSectionGroup = new System.Windows.Forms.GroupBox();
+            
             this.databaseSectionGroup = new System.Windows.Forms.GroupBox();
             this.addPersonButton = new System.Windows.Forms.Button();
             this.lastNameLabel = new System.Windows.Forms.Label();
