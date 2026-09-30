@@ -54,8 +54,6 @@ namespace DemoLibrary.Tests
 
             // Assert
             Assert.Equal(expected, actual);
-          // Assert
-            Assert.Equal(expected, actual);
         }
     }
 }
